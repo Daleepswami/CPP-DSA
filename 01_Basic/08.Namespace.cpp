@@ -1,8 +1,8 @@
-What is a Namespace ?
+What is a namespace ?
    A namespace is used to group related names.
    It helps avoid name conflicts.
 
-Why Namespace is needed::==>>
+Why namespace is needed::==>>
    Same name can exist in different namespaces
    Prevents confusion in large programs
 
@@ -25,7 +25,7 @@ int main() {
 }
 
 
-Custom Namespace::=>>
+Custom namespace::=>>
 
 namespace mySpace {
     int x = 10;
